@@ -1,0 +1,16 @@
+current directory: /home/bubblu/Desktop/railsnew/UrbanConnect/urbanconnect/urbanconnect_Final/urbanconnect/vendor/bundle/ruby/3.0.0/gems/haml-6.1.2/ext/haml
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20230829-7176-upq8a3.rb extconf.rb
+creating Makefile
+
+current directory: /home/bubblu/Desktop/railsnew/UrbanConnect/urbanconnect/urbanconnect_Final/urbanconnect/vendor/bundle/ruby/3.0.0/gems/haml-6.1.2/ext/haml
+make DESTDIR\= clean
+
+current directory: /home/bubblu/Desktop/railsnew/UrbanConnect/urbanconnect/urbanconnect_Final/urbanconnect/vendor/bundle/ruby/3.0.0/gems/haml-6.1.2/ext/haml
+make DESTDIR\=
+compiling haml.c
+compiling hescape.c
+linking shared-object haml/haml.so
+
+current directory: /home/bubblu/Desktop/railsnew/UrbanConnect/urbanconnect/urbanconnect_Final/urbanconnect/vendor/bundle/ruby/3.0.0/gems/haml-6.1.2/ext/haml
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 haml.so ./.gem.20230829-7176-1j9oxe/haml
